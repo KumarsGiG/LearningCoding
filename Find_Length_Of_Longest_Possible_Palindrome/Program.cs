@@ -1,6 +1,6 @@
 ﻿namespace Find_Length_Of_Longest_Possible_Palindrome
 {
-    internal class Program
+    internal static class Program
     {
         static void Main(string[] args)
         {
