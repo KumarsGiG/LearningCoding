@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36310.24
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identify_Path_With_Smallest_Sum", "Identify_Path_With_Smallest_Sum\Identify_Path_With_Smallest_Sum.csproj", "{6094DD13-070A-4ACB-ACBC-54E17C15CBBA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find_Length_Of_Longest_Possible_Palindrome", "Find_Length_Of_Longest_Possible_Palindrome\Find_Length_Of_Longest_Possible_Palindrome.csproj", "{59AD8B1C-A756-40BF-A479-5B3CD353069A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6094DD13-070A-4ACB-ACBC-54E17C15CBBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6094DD13-070A-4ACB-ACBC-54E17C15CBBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6094DD13-070A-4ACB-ACBC-54E17C15CBBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6094DD13-070A-4ACB-ACBC-54E17C15CBBA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59AD8B1C-A756-40BF-A479-5B3CD353069A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59AD8B1C-A756-40BF-A479-5B3CD353069A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59AD8B1C-A756-40BF-A479-5B3CD353069A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59AD8B1C-A756-40BF-A479-5B3CD353069A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98F07467-C9FD-4004-9D39-53E009B1E170}
+	EndGlobalSection
+EndGlobal
